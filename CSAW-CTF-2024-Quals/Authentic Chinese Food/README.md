@@ -18,7 +18,7 @@ From here on out, I had to find the information I need. I tried to look for the 
 
 I was skeptical so I skipped it and moved on to the **YearBuilt** and **LLCName**. *Spoiler Alert: It was the correct answer*
 
-This took me a while to find, I tried searching for the street name and building (423 Fulton Street Panda Express Building, 421 Pearl St. Building, etc.) trying to look for the name of the building. Then I found this:
+This took me a while to find, I tried searching for the street name using "423 Fulton Street Panda Express Building, 421 Pearl St. Building, etc." trying to look for the name of the building. Then I found this:
 
 ```
 https://www.propertyshark.com/mason/Property/120903/423-Fulton-St-Brooklyn-NY-11201/
