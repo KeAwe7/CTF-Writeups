@@ -8,6 +8,7 @@ This repo is a growing collection of **writeups**, showcasing how I approach dif
 
 ### 🌟 Featured Writeup:
 - [CSAW CTF 2024 Qualifiers](./CSAW-CTF-2024-Quals)
+- [PatriotCTF 2024](./PatriotCTF%202024/)
 
 > **Note:** Stay tuned for more upcoming writeups from different CTFs as I continue participating in new events!
 
